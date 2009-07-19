@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE book PUBLIC "-//OASIS/DTD DocBook XML V4.4//EN" "/usr/share/xml/docbook/xml-dtd-4.5/docbookx.dtd" [
+  <!ENTITY introduction SYSTEM "introduction.docbook">
+]>
+<book id="friendly-lojban" lang="en">
+  <bookinfo>
+    <title>Friendly Lojban</title>
+  </bookinfo>
+
+  &introduction;
+</book>

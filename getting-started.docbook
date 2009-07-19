@@ -1,0 +1,254 @@
+<chapter id="getting-started">
+  <title>Getting Started</title>
+
+  <sect1 id="reading-lojban">
+    <title>Reading Lojban</title>
+
+    <para>There are a variety of writing systems for Lojban, but the most common and most standard is the Latin-based alphabet, so that's what we'll use in this book.  It consists of the twenty-six characters abcdefgijklmnoprstuvxyz.', spaces, and, occasionally, their uppercase equivalents, which are used to indicate stress in cases where it cannot be otherwise discerned.</para>
+  </sect1>
+
+  <sect1 id="speaking-lojban">
+    <title>Speaking Lojban</title>
+
+    <para>The Lojban writing system is perfectly phonetic: it is always possible to pronounce a word given its written form, and always possible to spell a word once heard, listening errors aside.  This means that each letter has only one sound, with the sole exception of diphthongs.  Note that, though each letter technically has only one sound, that same sound can be realised in a variety of ways, as in English dialects; only the most common variants will be covered here.  Variations on these should be similar enough for you to recognise them.</para>
+
+    <para>Any word beginning with a vowel will have a pause before it to distinguish it from preceding words; any word ending with a consonant will have a pause after it to distinguish it from following words.  Stress, when it matters, is always on the penultimate syllable of a word.</para>
+
+    <sect2 id="abcs">
+      <title>ABCs — the Lojban Alphabet</title>
+
+      <sect3 id="vowels">
+        <title>Vowels</title>
+
+        <para>Lojban has six vowels, which should be familiar to                   English-speakers; the only gotcha is that ‘y’ is not pronounced as in                   ‘yes’ or as in ‘sky’, but rather has the very unusual pronunciation                   found in ‘sibyl’: the ‘a’ of ‘about’.</para>
+        <table>
+          <title>Lojban Vowels</title>
+
+          <tgroup cols="3" align="center" colsep="1" rowsep="1">
+            <thead>
+              <row>
+                <entry>Vowel</entry>
+                <entry>Lojban Name</entry>
+                <entry>Sound</entry>
+              </row>
+            </thead>
+
+            <tbody>
+              <row>
+                <entry>a</entry>
+                <entry>.a bu</entry>
+                <entry>like the ‘a’ in ‘father’ or ‘car’</entry>
+              </row>
+              <row>
+                <entry>e</entry>
+                <entry>.e bu</entry>
+                <entry>like the ‘e’ in ‘bed’ or ‘fell’</entry>
+              </row>
+              <row>
+                <entry>i</entry>
+                <entry>.i bu</entry>
+                <entry>like the ‘ee’ in ‘meet’ or the ‘i’ in                                   ‘elite’</entry>
+              </row>
+              <row>
+                <entry>o</entry>
+                <entry>.o bu</entry>
+                <entry>like the ‘aw’ in ‘law’ or the ‘au’ in                                   ‘caught’</entry>
+              </row>
+              <row>
+                <entry>u</entry>
+                <entry>.u bu</entry>
+                <entry>like the ‘oo’ in ‘food’ or ‘mood’</entry>
+              </row>
+              <row>
+                <entry>y</entry>
+                <entry>.y bu</entry>
+                <entry>like the ‘a’s in ‘America’</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </sect3>
+
+      <sect3>
+        <title>Consonants</title>
+        <para>Of the consonants, only ‘c’, ‘x’, and the apostrophe, ‘'’,                   are liable to trip up an English-speaker.  ‘c’ has the sound usually                   given to ‘sh’, and ‘x’ is a sound rarely found in English.  It is                   often trancribed as ‘ch’, as in ‘loch’, or ‘gh’, as in the exclamation                   ‘ugh’.</para>
+
+        <table>
+          <title>Lojban Consonants</title>
+
+          <tgroup cols="3" align="center" colsep="1" rowsep="1">
+            <thead>
+              <row>
+                <entry>Consonant</entry>
+                <entry>Lojban Name</entry>
+                <entry>Sound</entry>
+              </row>
+            </thead>
+
+            <tbody>
+              <row>
+                <entry>b</entry>
+                <entry>by.</entry>
+                <entry>like the ‘b’ in ‘bee’</entry>
+              </row>
+              <row>
+                <entry>c</entry>
+                <entry>cy.</entry>
+                <entry>like the ‘c’ in ‘ocean’ or the ‘sh’ in ‘ship’                                   (<emphasis>not</emphasis> like the ‘c’ in ‘cat’ or in                                   ‘ceiling’)</entry>
+              </row>
+              <row>
+                <entry>d</entry>
+                <entry>dy.</entry>
+                <entry>like the ‘d’ in ‘donkey’</entry>
+              </row>
+              <row>
+                <entry>f</entry>
+                <entry>fy.</entry>
+                <entry>like the ‘f’ in ‘fire’</entry>
+              </row>
+              <row>
+                <entry>g</entry>
+                <entry>gy.</entry>
+                <entry>like the ‘g’ in ‘garden’                   (<emphasis>not</emphasis>                 like in ‘age’ or the second                   ‘g’ in ‘garage’)</entry>
+              </row>
+              <row>
+                <entry>j</entry>
+                <entry>jy.</entry>
+                <entry>like the ‘s’ in ‘pleasure’                                   (<emphasis>not</emphasis> like the ‘j’ in ‘jelly’)</entry>
+              </row>
+              <row>
+                <entry>k</entry>
+                <entry>ky.</entry>
+                <entry>like the ‘k’ in ‘king’</entry>
+              </row>
+              <row>
+                <entry>l</entry>
+                <entry>ly.</entry>
+                <entry>like the ‘l’ in ‘lick’</entry>
+              </row>
+              <row>
+                <entry>m</entry>
+                <entry>my.</entry>
+                <entry>like the ‘m’ in ‘monk’</entry>
+              </row>
+              <row>
+                <entry>n</entry>
+                <entry>ny.</entry>
+                <entry>like the ‘n’ in ‘number’, or like the ‘ng’ in                                   ‘king’</entry>
+              </row>
+              <row>
+                <entry>p</entry>
+                <entry>py.</entry>
+                <entry>like the ‘p’ in ‘park’</entry>
+              </row>
+              <row>
+                <entry>r</entry>
+                <entry>ry.</entry>
+                <entry>like the ‘r’ in ‘ring’</entry>
+              </row>
+              <row>
+                <entry>s</entry>
+                <entry>sy.</entry>
+                <entry>like the ‘s’ in ‘sing’ (<emphasis>not</emphasis>                   as                 in ‘pleasure’ or ‘cars’)</entry>
+              </row>
+              <row>
+                <entry>t</entry>
+                <entry>ty.</entry>
+                <entry>like the ‘t’ in ‘tack’ (<emphasis>not</emphasis>                   as                 in ‘position’)</entry>
+              </row>
+              <row>
+                <entry>v</entry>
+                <entry>vy.</entry>
+                <entry>like the ‘v’ in ‘vole’</entry>
+              </row>
+              <row>
+                <entry>x</entry>
+                <entry>xy.</entry>
+                <entry>a fricative made in the back of the throat, like                                   the ‘ch’ in Scottish/English ‘loch’ or German ‘ach’</entry>
+              </row>
+              <row>
+                <entry>z</entry>
+                <entry>zy.</entry>
+                <entry>like the ‘z’ in ‘zebra’</entry>
+              </row>
+              <row>
+                <entry>'</entry>
+                <entry>.y'y.</entry>
+                <entry>like the ‘h’ in ‘heart’</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </sect3>
+
+      <sect3 id="separators">
+        <title>Separators</title>
+        <para>Lojban also has two characters that are used to clarify                   pronunciation rules, but are not properly letters.</para>
+
+        <table>
+          <title>Lojban Separators</title>
+
+          <tgroup cols="3" align="center" colsep="1" rowsep="1">
+            <thead>
+              <row>
+                <entry>Separator</entry>
+                <entry>Lojban Name</entry>
+                <entry>Sound</entry>
+              </row>
+            </thead>
+
+            <tbody>
+              <row>
+                <entry>.</entry>
+                <entry>denpa bu</entry>
+                <entry>Representing a small pause to stop words running                                   into one another, this character is implied before a word beginning                                   with a vowel or a after a word ending in a consonant or ‘y’.</entry>
+              </row>
+              <row>
+                <entry>,</entry>
+                <entry>slaka bu</entry>
+                <entry>This character allows one to write syllable                                   boundaries.  While never seen in native Lojban text, it allows for                                   more accurate representation of foreign names.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </sect3>
+
+      <para>In addition to the above, other symbols may be used at the writer's discretion to clarify the structure of text.  These symbols are ignored when speaking, and strictly redundant.</para>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Exercises</title>
+
+    <orderedlist numeration="upperroman">
+      <listitem>
+        Pronounce the following:
+
+        <orderedlist numeration="upperroman">
+          <listitem>lo mi gerku cu bunre</listitem>
+          <listitem>mi prami lo nu cadzu</listitem>
+          <listitem>ki'u ¿ma do nalka'e citka loi fipre'u</listitem>
+          <listitem>.u'a .ui mi pu zvafa'i loi jdini</listitem>
+        </orderedlist>
+      </listitem>
+
+      <listitem>
+        Transcribe: (TODO)
+
+        <orderedlist numeration="upperroman">
+          <listitem>
+            <mediaobject>
+              <audioobject>
+                <objectinfo>
+                  <title>Exercise II.II.I</title>
+                </objectinfo>
+
+                <audiodata fileref="audio/foo.ogg" />
+              </audioobject>
+            </mediaobject>
+          </listitem>
+        </orderedlist>
+      </listitem>
+    </orderedlist>
+  </sect1>
+</chapter>

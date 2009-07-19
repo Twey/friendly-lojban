@@ -1,0 +1,29 @@
+<chapter id="introduction">
+  <title>Introduction</title>
+
+  <sect1 id="what-is-lojban">
+    <title>What Is Lojban?</title>
+
+    <para>Lojban is a human language that aims to allow the speaker to express his or her intent as clearly and unambiguously as he or she wishes, while remaining fit for everyday conversation and trivial writings.  It is the successor of Loglan, a language originally created in 1955 by the American sociologist Dr. James Cooke Brown with the aim of discovering whether speaking a more logical language would allow humans to think more logically.  Today, with the advent of the Internet to connect speakers from across the world, several communities have sprung up, and many conversations are held in Lojban every day.  A wide variety of classical works have been translated into Lojban, and Lojban has been the language of authorship of several poems, tales, and entire novels.</para>
+  </sect1>
+
+  <sect1 id="why-learn-lojban">
+    <title>Why Learn Lojban?</title>
+
+    <para>That all sounds very lofty and idealistic, but why would an ordinary person, rather than a sociologist or logician, want to learn Lojban?  Well, Lojban offers several benefits even to those not interested in studying its theory or semantics for their own sake.  Lojban the language allows you to express your thoughts with clarity, so you can say what <emphasis>you really mean</emphasis> without your language getting in the way.  On the flip side of that, Lojban is capable of expressing complex, subtle, and profound ideas with as much flexibility and meaning as you are prepared to put into them.  The combination of these two traits makes Lojban ideal for a vast range of purposes, from philosophy and mathematics to poetry and story-telling, both in spoken discussion and written explanation.  Wherever language is important, Lojban can make a difference.  Even if all you write habitually are diary entries, Lojban can allow you to record your thoughts and feelings more precisely to aid recall when you re-read it, and its malleable grammar can be shaped to better fit the shape of your thoughts.</para>
+
+    <para>In addition to the potential applications of the language, even if you never use it, learning Lojban is an educational experience in its own right.  It's common knowledge that learning one language makes it easier to learn another; with a language that makes as many distinctions as Lojban, that benefit is greatly amplified.  Learning Lojban can help you gain a better understanding of other languages, even those largely unrelated to it grammatically: it can impart a better grasp of the subtleties of any language you choose to study, including your native language(s), thanks to learning to use the semantics of the language explicitly in Lojban.</para>
+
+    <para>Last but not least, it's fun!  Most Lojbanists find the experience of playing and experimenting with what can be done with a new, ultra-flexible language to be decidedly entertaining, and a variety of new forms of wordplay have sprung up practically overnight.  I hope that this book can pave the way for you to discover why we enjoy it so.</para>
+  </sect1>
+
+  <sect1 id="how-does-one-learn-lojban">
+    <title>How Does One Learn Lojban?</title>
+
+    <para>This is the easy part — you are, after all, looking at a textbook for just such a purpose!  Lojban has always been a free language, and as such there are a wide variety of learning materials available online, for no cost whatsoever.  However, these learning materials have traditionally been quite technical in nature, and therefore Lojban has acquired something of a reputation as being a rather stilted and difficult-to-learn language, and tended to attract mainly technical types to the community.</para>
+
+    <para>However, I think that Lojban is as simple and intuitive as any other language, and can and should be taught as such to anybody who prefers a less technical approach to language-learning.  Of course, learning this way will not give you as great a grasp of the intricate details of a language as somebody who learns the language by studying a grammar, but it <emphasis>should</emphasis> get you to conversational level much faster and cement a more instinctive grasp of the grammar in your mind, dramatically increasing your conversational fluency.  Niggling details can, as ever, be looked up as necessary, if they're not learnt sufficiently on intuition alone.</para>
+
+    <para>Therefore, this book attempts to rectify that, by being a true, non-technical beginner's introduction.  Concepts will be explained in plain English as best as possible, without resorting to technical vocabulary; copious examples will be used to illustrate points; the book will be indexed by English idioms, not Lojban ones; and <emphasis>there will be absolutely no truth tables</emphasis>.  Hairier details may be initially omitted in favour of getting a general sense of the language, but all examples provided will be perfectly grammatical, and, due to Lojban's regularity, can on the whole be safely generalised.  As such, if you run into a minor grammatical word you don't quite understand, don't worry too much about it: take note of it in the examples, see how it's used, and learn to feel how it should be applied, rather than worrying too much about its technical function and the hard and fast rules of how to use it.  All will be explained later on.</para>
+  </sect1>
+</chapter>

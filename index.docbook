@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE book PUBLIC "-//OASIS/DTD DocBook XML V4.5//EN" "/usr/share/xml/docbook/xml-dtd-4.5/docbookx.dtd" [
+  <!ENTITY introduction SYSTEM "introduction.docbook">
+  <!ENTITY getting-started SYSTEM "getting-started.docbook">
+  <!ENTITY hi-im-john SYSTEM "hi-im-john.docbook">
+  <!ENTITY do-you-like-cats SYSTEM "do-you-like-cats.docbook">
+  <!ENTITY what-were-you-doing-yesterday SYSTEM "what-were-you-doing-yesterday.docbook">
+  <!ENTITY the-pen-of-my-aunt SYSTEM "the-pen-of-my-aunt.docbook">
+]>
+<book id="friendly-lojban" lang="en">
+  <bookinfo>
+    <title>Friendly Lojban</title>
+    <date>2009-05-16</date>
+    <releaseinfo>0.00.01</releaseinfo>
+
+    <authorgroup>
+      <author>
+        <firstname>James</firstname>
+        <othername>"Twey"</othername>
+        <surname>Kay</surname>
+      </author>
+    </authorgroup>
+
+    <keywordset>
+      <keyword>lojban</keyword>
+      <keyword>language</keyword>
+      <keyword>introduction</keyword>
+      <keyword>intuitive</keyword>
+      <keyword>easy</keyword>
+      <keyword>simple</keyword>
+      <keyword>friendly</keyword>
+    </keywordset>
+  </bookinfo>
+
+  &introduction; <!-- book meta-info -->
+  &getting-started; <!-- basics; orthography; pronunciation -->
+  &hi-im-john; <!-- self-introduction; greeting rituals -->
+  &do-you-like-cats; <!-- bridi; questions -->
+  &what-were-you-doing-yesterday; <!-- tenses; time -->
+  &the-pen-of-my-aunt; <!-- possessives; people -->
+</book>
