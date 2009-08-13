@@ -3,6 +3,7 @@
   <!ENTITY introduction SYSTEM "introduction.docbook">
   <!ENTITY getting-started SYSTEM "getting-started.docbook">
   <!ENTITY hi-im-john SYSTEM "hi-im-john.docbook">
+  <!ENTITY knowing-me-knowing-you SYSTEM "knowing-me-knowing-you.docbook">
   <!ENTITY do-you-like-cats SYSTEM "do-you-like-cats.docbook">
   <!ENTITY what-were-you-doing-yesterday SYSTEM "what-were-you-doing-yesterday.docbook">
   <!ENTITY the-pen-of-my-aunt SYSTEM "the-pen-of-my-aunt.docbook">
@@ -35,6 +36,7 @@
   &introduction; <!-- book meta-info -->
   &getting-started; <!-- basics; orthography; pronunciation -->
   &hi-im-john; <!-- self-introduction; greeting rituals -->
+  &knowing-me-knowing-you; <!-- pronouns -->
   &do-you-like-cats; <!-- bridi; questions -->
   &what-were-you-doing-yesterday; <!-- tenses; time -->
   &the-pen-of-my-aunt; <!-- possessives; people -->

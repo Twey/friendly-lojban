@@ -1,5 +1,121 @@
 <chapter id="hi-im-john">
   <title>Hi, I'm John</title>
 
-  <para>Like this: <foreignphrase>coi .i mi'e .djon.</foreignphrase></para>
+  <sect1 id="names">
+    <title>Names</title>
+
+    <sect2 id="lojbanisation">
+      <title>Lojbanisation</title>
+
+      <para>You may have noticed that the sounds given in the previous chapter do not cover every sound in English.  In fact, given that Lojban aims to be culturally neutral, this would be extremely difficult: it would have to include every sound from every language available, or at least a large selection of the most popular ones!  So, how do we represent foreign words in Lojban?  Well, it turns out that <emphasis>no</emphasis> language has enough sounds to perfectly represent every sound in every other language.  Lojban does what other languages do when importing a word from another language: it changes the word to fit the sounds available.  For example, the Japanese word <wordasword><foreignphrase>東京</foreignphrase></wordasword> is commonly ‘Romanised’ as <wordasword>Tokyo</wordasword>.  Likewise, the same word would be ‘Lojbanised’ as <wordasword><foreignphrase>.tokios.</foreignphrase></wordasword>.</para>
+
+      <para>Lojban places a couple of additional constraints upon foreign words and names.  Firstly, they must end with a consonant.  This is to distinguish them from native words that they might otherwise resemble and make them immediately obvious to the reader or listener as non-native words that need not have meaning prescribed to them.  There is an unspoken convention that the default consonant used for this purpose is ‘s’, but you may use whatever consonant you like; many people prefer an ‘r’ after ‘ah’ sounds as in <wordasword>cha</wordasword> (Lojbanised: <wordasword>.tcar.</wordasword>), and the most common Lojbanisation of <wordasword>Esperanto</wordasword> (a language) is <wordasword>.esperanton.</wordasword>, since this is a valid declension of the word in Esperanto itself.  Secondly, they must have pauses (written with a dot) on either side.  This separates the word from the surrounding Lojban text, and prevents it from accidentally running together and being misinterpreted as part of one of the words to either side.</para>
+    </sect2>
+
+    <sect2 id="verbatim-foreign-names">
+      <title>Verbatim Foreign Names</title>
+
+      <para>But what if you want to talk about a name literally, as it is pronounced and written in its native language, as when we discussed <wordasword>東京</wordasword> above?  Well, to keep it separate from the rest of the text and indicate that it is a name, you must say <quote><foreignphrase>la'o gy. John .gy.</foreignphrase></quote> where <wordasword>John</wordasword> is your name.  The ‘gy.’ used here can be any single Lojban word, so long as it does not appear within the name itself.  Convention uses the name of the first letter of the language name to indicate the language in which the text is being conveyed; the Lojban word for <wordasword>English</wordasword> is <wordasword><foreignphrase>glico</foreignphrase></wordasword>.  The Japanese name of Tokyo, for example, would conventionally be quoted as <wordasword><foreignphrase>la'o py. 東京 .py.</foreignphrase></wordasword>, from the Lojban word for <wordasword>Japanese</wordasword>, which is <wordasword><foreignphrase>ponjo</foreignphrase></wordasword>.  All this quoting is obviously quite clumsy, and there's no guarantee that other Lojbanists will know how to read or pronounce your name in your language, so most Lojbanists choose to Lojbanise their names or otherwise choose a Lojban name, for the convenience of everyone.</para>
+    </sect2>
+  </sect1>
+
+  <sect1 id="greetings">
+    <title>Greetings</title>
+
+    <para>So what can you do with these names?  Well, as you'll see later, you can use them as part of an ordinary sentence.  Here, though, we'll just concentrate on some basic phrases covered by a group of words collectively known as <wordasword>vocatives</wordasword>.  The most useful of these is probably <wordasword><foreignphrase>coi</foreignphrase></wordasword>, which simply means <wordasword>hello</wordasword>.</para>
+
+    <example>
+      <title>The Use of <wordasword><foreignphrase>coi</foreignphrase></wordasword></title>
+      <informaltable frame="none">
+        <tgroup cols="2" align="left" colsep="0" rowsep="0">
+          <thead>
+            <row>
+              <entry>Lojban</entry>
+              <entry>English</entry>
+            </row>
+          </thead>
+
+          <tbody>
+            <row>
+              <entry>coi</entry>
+              <entry>Hello.</entry>
+            </row>
+
+            <row>
+              <entry>coi .djon.</entry>
+              <entry>Hello, John.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </example>
+
+    <para>As you can see, <wordasword><foreignphrase>coi</foreignphrase></wordasword> can be used with the name of the person you are greeting, or on its own to address anybody listening, much as with English <wordasword>hello</wordasword>.  All vocatives follow this pattern.  Some other useful vocatives you'll probably encounter a lot are <wordasword><foreignphrase>co'o</foreignphrase></wordasword> ‘<wordasword>goodbye</wordasword>’, <wordasword><foreignphrase>fi'i</foreignphrase></wordasword> ‘welcome’ (as in <quote>welcome to my home</quote>, not as in <quote>you're welcome</quote> in response to <quote>thank you</quote>), <wordasword><foreignphrase>ki'e</foreignphrase></wordasword> ‘<wordasword>thank you</wordasword>’, and <wordasword><foreignphrase>je'e</foreignphrase></wordasword> ‘<wordasword>O.K.</wordasword>/<wordasword>that's all right</wordasword>/<wordasword>you're welcome</wordasword>’.</para>
+
+    <example>
+      <title>Further Vocatives</title>
+
+      <informaltable frame="none">
+        <tgroup cols="2" align="left" colsep="0" rowsep="0">
+          <thead>
+            <row>
+              <entry>Lojban</entry>
+              <entry>English</entry>
+            </row>
+          </thead>
+
+          <tbody>
+            <row>
+              <entry>fi'i</entry>
+              <entry>Welcome!</entry>
+            </row>
+
+            <row>
+              <entry>ki'e .djein.</entry>
+              <entry>Thank you, Jane.</entry>
+            </row>
+
+            <row>
+              <entry>je'e</entry>
+              <entry>No problem.</entry>
+            </row>
+
+            <row>
+              <entry>co'o .djon.</entry>
+              <entry>Goodbye, John.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </example>
+
+    <para>To translate this chapter's title, we need only one more vocative, that you probably won't encounter very often, but which is very useful when meeting someone for the first time: <wordasword><foreignphrase>mi'e</foreignphrase></wordasword>, which basically means ‘I'm…’, introducing yourself.</para>
+
+    <example>
+      <title>A First Meeting</title>
+
+      <informaltable frame="none">
+        <tgroup cols="2" align="left" colsep="0" rowsep="0">
+          <thead>
+            <row>
+              <entry>Lojban</entry>
+              <entry>English</entry>
+            </row>
+          </thead>
+
+          <tbody>
+            <row>
+              <entry>coi .i mi'e .djon.</entry>
+              <entry>Hi, I'm John.</entry>
+            </row>
+
+            <row>
+              <entry>coi .djon. .i mi'e .djein.</entry>
+              <entry>Hello, John.  I'm Jane.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </example>
+  </sect1>
 </chapter>
